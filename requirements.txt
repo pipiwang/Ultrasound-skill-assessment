@@ -1,0 +1,4 @@
+numpy==1.24.3
+torchio==0.19.1
+torchvision==0.15.2
+ujson==5.4.0
